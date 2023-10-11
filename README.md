@@ -12,7 +12,7 @@ Setup of Platform Tools:
 Download Platform Tools - https://developer.android.com/tools/releases/platform-tools
 
 ## Static Checks:
-adb devices
+adb devices /n
 adb shell 
 su
 cd /data/data/com.example.com
